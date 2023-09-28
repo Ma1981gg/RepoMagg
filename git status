@@ -1,0 +1,53 @@
+[33mcommit 25277e49d2bf50823e44e695a455f05e03191771[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:55:17 2023 -0300
+
+    Se agrega el archivo tile y se actualiza el cambio en el template del proyecto
+
+[33mcommit 90b4a8528ccf1529b24badeda6b23c806e9df33a[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:54:08 2023 -0300
+
+    Se Actualiza archivo wide.png y se agregan los cambios al template del proyecto
+
+[33mcommit 0398b1535f937f7d097779c65c3bd36df5ddd80a[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:53:18 2023 -0300
+
+    Se agrega el archivo js y se actualiza el template del proyecto
+
+[33mcommit 7ba26a780389d4d3cd81b40ef7b932880de5fca4[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:52:40 2023 -0300
+
+    Se agrega archivos fonts al repo y se actualiza el template del proyecto
+
+[33mcommit 39d808eb2cb3840e8c52cd1a8b0ab2cf5fd8a38d[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:51:49 2023 -0300
+
+    Se actualiza repo y se agrega archivo favicon en el template del proyecto
+
+[33mcommit b1bfed6b35f594d0075712641b4aaf819e124b4c[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:50:57 2023 -0300
+
+    Se actualiza repo y se agrega carpeta con archivos css al template del proyecto
+
+[33mcommit 9d9fb022af691643a34b8e883ce67712e470a28e[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:49:44 2023 -0300
+
+    Se actualiza repo y se agrega archivo apple del template del proyecto
+
+[33mcommit 9402fcc597dc0e5449d9c7736161736719de5407[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:45:52 2023 -0300
+
+    Seactualiza repo y se agrega fichero index.html del template del proyecto
+
+[33mcommit 7c7b639e51b303d06d07f4d586901dc37d2a279e[m
+Author: Marco Gallardo <marco.gallardo.g@gmail.com>
+Date:   Thu Sep 28 08:17:59 2023 -0300
+
+    Se registra en nuestro repositorio fichero browserconfig.xml con el template del proyecto
